@@ -1,0 +1,6 @@
+jupyter
+pypdf
+langchain
+faiss-cpu
+bs4
+chromadb
