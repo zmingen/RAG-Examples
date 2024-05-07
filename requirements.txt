@@ -1,6 +1,7 @@
 jupyter
 pypdf
 langchain
+langchainhub
 faiss-cpu
 bs4
 chromadb
